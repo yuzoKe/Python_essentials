@@ -1,4 +1,5 @@
 """
+2.4.7 LAB - Variables
 Scenario
 Here is a short story:
 
@@ -32,4 +33,4 @@ carolina = int(3)
 pedro = int(2)
 
 print("At the start, Carolina had 3 apples, Pedro 2 apples and Eduardo 10.\n"
-      "Carolina took one apple from Pedro\n""Eduardo seeing that Pedro only had one left, gave 3 apples to him.\n")
+      "Carolina took one apple from Pedro.\n""Eduardo seeing that Pedro only had one left, gave 3 apples to him.\n")
