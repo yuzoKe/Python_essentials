@@ -1,5 +1,6 @@
 """
 2.4.7 LAB - Variables
+
 Scenario
 Here is a short story:
 
