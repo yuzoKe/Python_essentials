@@ -10,22 +10,22 @@ Don't create any if blocks (we're going to talk about them very soon).
 Test your code using the data we've provided for you.
 
 TEST DATA
-Sample Input1 : 55
+Sample Input: 55
 Expected output1: False
 
-Sample Input2 : 99
+Sample Input: 99
 Expected output2: False
 
-Sample Input3 : 100
+Sample Input: 100
 Expected output3: True
 
-Sample Input3 : 101
+Sample Input: 101
 Expected output3: True
 
-Sample Input3 : -5
+Sample Input: -5
 Expected output3: False
 
-Sample Input3 : +123
+Sample Input: +123
 Expected output3: True
 """
 n = int(input("Enter a number: "))

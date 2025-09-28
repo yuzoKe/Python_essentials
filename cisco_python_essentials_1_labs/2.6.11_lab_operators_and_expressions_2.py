@@ -15,13 +15,13 @@ the most important thing is that the code produces valid results for valid input
 - Test your code carefully. Hint: using the % operator may be the key to success.
 
 TEST DATA
-Sample Input1 : 12h 17m 59s
+Sample Input1: 12h 17m 59s
 Expected output1: 13:16
 
-Sample Input2 : 23h 58m 642s
+Sample Input2: 23h 58m 642s
 Expected output2: 10:40
 
-Sample Input3 : 0h 1m 2939s
+Sample Input3: 0h 1m 2939s
 Expected output3: 1:0
 
 ----------------------------------------

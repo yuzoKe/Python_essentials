@@ -27,16 +27,16 @@ so you need to complete it with some smart calculations.
 Test your code using the data we've provided.
 
 TEST DATA
-Sample Input1 : 10000
+Sample Input: 10000
 Expected output1: The tax is: 1244.0 thalers
 
-Sample Input1 : 100000
+Sample Input: 100000
 Expected output1: The tax is: 19470.0 thalers
 
-Sample Input1 : 1000
+Sample Input: 1000
 Expected output1: The tax is: 0.0 thalers
 
-Sample Input1 : -100
+Sample Input: -100
 Expected output1: The tax is: 0.0 thalers
 """
 

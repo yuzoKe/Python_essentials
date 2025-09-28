@@ -21,13 +21,13 @@ prints "Spathiphyllum! Not [input]!" otherwise. Note: [input] is the string take
 Test your code using the data we've provided for you. And get yourself a Spathiphyllum, too!
 
 TEST DATA
-Sample Input1 : spathiphyllum
+Sample Input: spathiphyllum
 Expected output1: No, I want a big Spathiphyllum!
 
-Sample Input2 : pelargonium
+Sample Input: pelargonium
 Expected output2: Spathiphyllum! Not pelargonium!
 
-Sample Input3 : Spathiphyllum
+Sample Input: Spathiphyllum
 Expected output3: Yes - Spathiphyllum is the best plant ever!
 """
 
